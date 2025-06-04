@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Daniela Ortegón Ayala
-<h3 align="center">Esto es un poco de mi material interactivo realizado</h3>
+<h3 align="center">Este es mi portafolio de materiales interactivos</h3>
 
 
 

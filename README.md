@@ -1,4 +1,5 @@
 ## Hi 👋, I'm Daniela Ortegón Ayala
+![alt text]("C:\Users\dania\OneDrive\Documentos\8063091.jpg")
 <h3 align="center">Este es mi portafolio de materiales interactivos</h3>
 
 

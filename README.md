@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Daniela Ortegón Ayala
 ![alt text](https://github.com/DanielaOA/DanielaOA/blob/main/8063091.jpg)
-<h3 align="center">Este es mi portafolio de materiales interactivos</h3> 
+ <img src="https://github.com/DanielaOA/DanielaOA/blob/main/8063091.jpg" width="200" height="150">
 
 
 

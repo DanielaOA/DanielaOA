@@ -1,6 +1,5 @@
 ## Hi 👋, I'm Daniela Ortegón Ayala
-![alt text](https://github.com/DanielaOA/DanielaOA/blob/main/8063091.jpg)
- <img src="https://github.com/DanielaOA/DanielaOA/blob/main/8063091.jpg" width="200" height="150">
+ <img src="https://github.com/DanielaOA/DanielaOA/blob/main/8063091.jpg" width="851,7647" height="482,6667">
 
 
 

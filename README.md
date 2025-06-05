@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Daniela Ortegón Ayala
-![alt text](![8063091](https://github.com/user-attachments/assets/cf37f412-2297-4467-8aba-5e0caeeaa499))
+![alt text](https://github.com/DanielaOA/DanielaOA/blob/main/8063091.jpg)
 <h3 align="center">Este es mi portafolio de materiales interactivos</h3> 
 
 
